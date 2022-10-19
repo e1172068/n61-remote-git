@@ -1,0 +1,1 @@
+window.alert("J'aime la couleur corail");
